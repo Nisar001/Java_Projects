@@ -1,6 +1,4 @@
 package TicTacToe1;
-
-//	Just One Byte
 //	Tic Tac Toe Java GUI
 	 
 import java.awt.Dimension;
